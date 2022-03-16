@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/task/static/css/main.67cafeef.css",
+    "main.js": "/task/static/js/main.a38cf5d8.js",
+    "static/media/corona.jpg": "/task/static/media/corona.861c5bf2434b40137176.jpg",
+    "index.html": "/task/index.html",
+    "main.67cafeef.css.map": "/task/static/css/main.67cafeef.css.map",
+    "main.a38cf5d8.js.map": "/task/static/js/main.a38cf5d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67cafeef.css",
+    "static/js/main.a38cf5d8.js"
+  ]
+}
